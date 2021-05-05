@@ -6,7 +6,8 @@ React JS
 
 Mobile view
 
-![localhost_3000(iPhone X)](https://user-images.githubusercontent.com/82828211/117155884-76e3d900-adbd-11eb-824d-24a6517eee02.png)
+![localhost_3000_(iPhone X) (1)](https://user-images.githubusercontent.com/82828211/117156283-cde9ae00-adbd-11eb-87cb-10089ecb48a0.png)
+
 
 
 

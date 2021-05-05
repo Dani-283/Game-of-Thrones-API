@@ -1,3 +1,16 @@
+Personal project 
+
+React JS
+
+![localhost_3000_(Laptop with MDPI screen)](https://user-images.githubusercontent.com/82828211/117155662-40a65980-adbd-11eb-93fe-ff6aad1cb777.png)
+
+Mobile view
+
+![localhost_3000_(iPhone X)](https://user-images.githubusercontent.com/82828211/117155730-4bf98500-adbd-11eb-81fe-b4ada8f06de8.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
